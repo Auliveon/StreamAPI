@@ -1,0 +1,57 @@
+map/StreamMap.java
+ map.StreamMap
+filter/Book.java
+ filter.Book
+filter/StreamFilter.java
+ filter.StreamFilter
+forEach/StreamForEach.java
+ forEach.StreamForEach
+ forEach.Utils
+reduce/StreamReduce.java
+ reduce.StreamReduce
+sorted/Student.java
+ sorted.Student
+sorted/StreamSorted.java
+ sorted.StreamSorted
+chaining/Student.java
+ chaining.Student
+chaining/StreamChaining.java
+ chaining.StreamChaining
+concat/StreamConcat.java
+ concat.StreamConcat
+distinct/StreamDistinct.java
+ distinct.StreamDistinct
+count/StreamCount.java
+ count.StreamCount
+peek/StreamPeek.java
+ peek.StreamPeek
+flatMap/Faculty.java
+ flatMap.Faculty
+flatMap/Student.java
+ flatMap.Student
+groupingAndPartitioning/Student.java
+ groupingAndPartitioning.Student
+flatMap/StreamFlatMap.java
+ flatMap.StreamFlatMap
+groupingAndPartitioning/StreamGroupingAndPartitioning.java
+ groupingAndPartitioning.StreamGroupingAndPartitioning
+findFirst/Student.java
+ findFirst.Student
+findFirst/StreamFindFirst.java
+ findFirst.StreamFindFirst
+minAndMax/Student.java
+ minAndMax.Student
+limit/StreamLimit.java
+ limit.StreamLimit
+minAndMax/StreamMinAndMax.java
+ minAndMax.StreamMinAndMax
+limit/Student.java
+ limit.Student
+skip/Student.java
+ skip.Student
+skip/StreamSkip.java
+ skip.StreamSkip
+mapToInt/StreamMapToInt.java
+ mapToInt.StreamMapToInt
+parallelStream/StreamParalelStream.java
+ parallelStream.StreamParalelStream
